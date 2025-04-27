@@ -8,8 +8,13 @@
   body {
     font-family: 'Segoe UI', sans-serif;
     line-height: 1.6;
+<<<<<<< HEAD:images/style.css
     background-color: #d3d5d8;
     color: #0e0d0dd3;
+=======
+    background-color: #f5f7fa;
+    color: #333;
+>>>>>>> parent of 4e8f54b (bg Color updated):style.css
   }
   
   /* Container */
